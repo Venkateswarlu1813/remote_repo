@@ -1,1 +1,2 @@
 first line in chapter1
+This chapter introduces the basics of Git and version control.
